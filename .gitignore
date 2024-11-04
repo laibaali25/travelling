@@ -1,11 +1,7 @@
 build/
 
  build.xml
-        hs_err_pid27020.log
-        hs_err_pid29640.log
-        manifest.mf
-        nbproject/
-        replay_pid27020.log
-        replay_pid29640.log
-        src/
-
+hs_err_*.log
+manifest.mf
+nbproject/
+replay_pid*.log
